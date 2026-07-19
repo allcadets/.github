@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/allcadets/.github/main/public/All_Cadets_2.png" alt="All Cadets" width="120">
+
 # All Cadets
 
 **Cadet management for JROTC and ROTC programs.**
@@ -32,7 +34,7 @@ We built the system that does.
 
 ### One platform for the whole unit
 
-![The instructor dashboard](https://raw.githubusercontent.com/allcadets/allCadets/main/docs/screenshots/dashboard-instructor.png)
+![The instructor dashboard](https://raw.githubusercontent.com/allcadets/.github/main/public/dashboard-instructor.png)
 
 **Roster of record.** Every cadet, their course level, grade, assignment, rank
 and billet. Sortable, filterable, exportable, printable. Dropped cadets stay
@@ -61,7 +63,7 @@ with the ribbon and insignia artwork built in.
 
 <div align="center">
 
-![Unit structure](https://raw.githubusercontent.com/allcadets/allCadets/main/docs/screenshots/structure-chart.png)
+![Unit structure](https://raw.githubusercontent.com/allcadets/.github/main/public/structure-chart.png)
 
 </div>
 
@@ -87,7 +89,7 @@ built from the start to describe any cadet organisation, not only US ones.
 
 ### Built for student records
 
-![The cadet's own view](https://raw.githubusercontent.com/allcadets/allCadets/main/docs/screenshots/dashboard-cadet.png)
+![The cadet's own view](https://raw.githubusercontent.com/allcadets/.github/main/public/dashboard-cadet.png)
 
 You are holding minors' records on a school network. The controls are how the
 system is built, not options you have to configure:
