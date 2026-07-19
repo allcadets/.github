@@ -7,7 +7,7 @@
 **Cadet management for JROTC and ROTC programs.**
 
 One system for the roster, the chain of command, promotions, awards and
-taskings — built around how a cadet unit actually operates, not adapted from a
+taskings - built around how a cadet unit actually operates, not adapted from a
 generic school database.
 
 [Website](https://allcadets.com) · [Support](https://allcadets.com/support) · [Trust & Safety](https://allcadets.com/trust)
@@ -23,7 +23,7 @@ All Cadets builds software for the instructors who run cadet programs.
 A JROTC or ROTC unit is not a classroom. It has a chain of command, a promotion
 ladder, an awards system, a structure that changes every year, and cadets who
 hold real authority delegated by staff. Instructors have historically run all of
-it on spreadsheets, shared drives and paper — because the school's student
+it on spreadsheets, shared drives and paper - because the school's student
 information system has no concept of a battalion, a billet or a ribbon rack.
 
 We built the system that does.
@@ -41,7 +41,7 @@ and billet. Sortable, filterable, exportable, printable. Dropped cadets stay
 visible in the record rather than vanishing from it.
 
 **Unit structure.** Build the hierarchy the way your unit is actually
-organised — battalions, companies, platoons and squads, each with its own
+organised - battalions, companies, platoons and squads, each with its own
 mascot, motto, colours and guidon. Any structure renders as an org chart.
 
 **Chain of command that means something.** Positions are the permission model.
@@ -49,8 +49,8 @@ Promote a cadet into S-1 Personnel Officer and they inherit exactly what that
 billet may do; move them out and the authority leaves with the position, not the
 person.
 
-**Delegation with a final say.** Cadet staff can be given real work — updating
-records, managing structure, running taskings — while every change they make
+**Delegation with a final say.** Cadet staff can be given real work - updating
+records, managing structure, running taskings - while every change they make
 without sign-off authority lands in an instructor's approval queue first. Cadets
 do the work. You keep the final say.
 
@@ -84,7 +84,7 @@ rather than making you translate.
 Both program levels are supported, each with its own tailored experience:
 **JROTC** for high school programs, and **ROTC** for college battalions.
 
-**International support is on the roadmap** — the branch and echelon model was
+**International support is on the roadmap** - the branch and echelon model was
 built from the start to describe any cadet organisation, not only US ones.
 
 ### Built for student records
@@ -96,7 +96,7 @@ system is built, not options you have to configure:
 
 - **Units are isolated from each other** at the database layer, not by a filter
   in the application.
-- **Cadets see their own view** — their assignment, their billet, their
+- **Cadets see their own view** - their assignment, their billet, their
   taskings. Staff functions are absent from their app, not merely greyed out.
 - **Every change is logged** to an auditable unit history.
 - **Sessions expire on idle** with a hard cap, because units share computers.
@@ -127,16 +127,16 @@ You pay for the capacity you actually carry, and you can start without a card.
 
 ## Who it's for
 
-**Instructors and SAIs** — the roster, the structure and the approval queue,
+**Instructors and SAIs** - the roster, the structure and the approval queue,
 without the spreadsheet.
 
-**Cadet staff** — real responsibility, scoped to the billet they hold, with
+**Cadet staff** - real responsibility, scoped to the billet they hold, with
 staff oversight built into the workflow.
 
-**Cadets** — a clear view of where they stand: their assignment, their rank,
+**Cadets** - a clear view of where they stand: their assignment, their rank,
 their taskings.
 
-**Districts and program directors** — consistent records across every unit,
+**Districts and program directors** - consistent records across every unit,
 with subscription and roster health visible in one console.
 
 ---
@@ -145,7 +145,7 @@ with subscription and roster health visible in one console.
 
 | Repository | What it is |
 | --- | --- |
-| [`allCadets`](https://github.com/allcadets/allCadets) | The platform — React application, Cloud Functions, security rules and infrastructure |
+| [`allCadets`](https://github.com/allcadets/allCadets) | The platform - React application, Cloud Functions, security rules and infrastructure |
 
 Engineering documentation lives in the main repository:
 [README](https://github.com/allcadets/allCadets#readme) ·
@@ -174,7 +174,7 @@ reporting.
 
 <div align="center">
 
-**All Cadets** — run your unit, not the paperwork.
+**All Cadets** - run your unit, not the paperwork.
 
 <sub>Not affiliated with, or endorsed by, the U.S. Department of Defense or any
 of its branches.</sub>
